@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WebViewProject.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>61DA9E192BD3C6CE6DCB39DF99317FC3DE20F496</string>
+				<key>dateExpires</key>
+				<string>2019/4/25</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>QLJDHZGYZX.com.xiandou.WebViewProject</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>QLJDHZGYZX</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>QLJDHZGYZX.com.xiandou.WebViewProject</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>WebViewProject.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>7a10814e-abe2-40d5-9736-bd81f6249020</string>
+				<key>name</key>
+				<string>Venice</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>QLJDHZGYZX</string>
+				<key>name</key>
+				<string>GUO ZANHUA</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
