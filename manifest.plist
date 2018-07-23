@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.shiandou.com/kingdom/kingdom.ipa</string>
+					<string>https://guozanhua.github.io/KingdomNew/Apps/WebViewProject.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www.shiandou.com/kingdom/img57x57.jpg</string>
+					<string>https://guozanhua.github.io/KingdomNew/Apps/img57x57.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.shiandou.com/kingdom/img512x512.jpg</string>
+					<string>https://guozanhua.github.io/KingdomNew/Apps/img512x512.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -43,7 +43,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.shiandou.com/kingdom/kingdom-iPad%20(4th%20generation)-etc.ipa</string>
+					<string>https://guozanhua.github.io/KingdomNew/Apps/WebViewProject-iPad%20(4th%20generation)-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad3,6</string>
@@ -58,7 +58,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.shiandou.com/kingdom/kingdom-iPad%202-etc.ipa</string>
+					<string>https://guozanhua.github.io/KingdomNew/Apps/WebViewProject-iPad%202-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad2,3</string>
@@ -74,7 +74,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.shiandou.com/kingdom/kingdom-iPad%20Pro%20(12.9-inch)-etc.ipa</string>
+					<string>https://guozanhua.github.io/KingdomNew/Apps/WebViewProject-iPad%20Pro%20(12.9-inch)-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad4,9</string>
@@ -100,7 +100,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.shiandou.com/kingdom/kingdom-iPad%20Pro%20(12.9-inch)%20(2nd%20generation)-etc.ipa</string>
+					<string>https://guozanhua.github.io/KingdomNew/Apps/WebViewProject-iPad%20Pro%20(12.9-inch)%20(2nd%20generation)-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad7,4</string>
@@ -113,7 +113,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.shiandou.com/kingdom/kingdom-iPad%20Pro%20(9.7-inch).ipa</string>
+					<string>https://guozanhua.github.io/KingdomNew/Apps/WebViewProject-iPad%20Pro%20(9.7-inch).ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad6,3</string>
@@ -124,7 +124,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.shiandou.com/kingdom/kingdom-iPhone%206s%20Plus-etc.ipa</string>
+					<string>https://guozanhua.github.io/KingdomNew/Apps/WebViewProject-iPhone%206s%20Plus-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone8,2</string>
@@ -135,7 +135,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.shiandou.com/kingdom/kingdom-iPhone%207%20Plus-etc.ipa</string>
+					<string>https://guozanhua.github.io/KingdomNew/Apps/WebViewProject-iPhone%207%20Plus-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone10,5</string>
@@ -150,7 +150,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.shiandou.com/kingdom/kingdom-iPhone%208-etc.ipa</string>
+					<string>https://guozanhua.github.io/KingdomNew/Apps/WebViewProject-iPhone%208-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone9,1</string>
@@ -163,7 +163,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.shiandou.com/kingdom/kingdom-iPhone%20SE-etc.ipa</string>
+					<string>https://guozanhua.github.io/KingdomNew/Apps/WebViewProject-iPhone%20SE-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone8,4</string>
@@ -178,7 +178,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.shiandou.com/kingdom/kingdom-iPod%20touch-etc.ipa</string>
+					<string>https://guozanhua.github.io/KingdomNew/Apps/WebViewProject-iPod%20touch-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone5,2</string>
